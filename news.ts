@@ -1,1 +1,3 @@
-let n:number = 2;
+export const news = () => {
+	return news
+}
