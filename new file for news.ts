@@ -1,1 +1,0 @@
-let bb: string = '123123';
